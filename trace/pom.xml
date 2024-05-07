@@ -29,7 +29,7 @@
     <groupId>com.google.cloud.samples</groupId>
     <artifactId>shared-configuration</artifactId>
     <version>1.0.23</version>
-    <relativePath></relativePath>
+    <relativePath/>
   </parent>
 
   <properties>
@@ -59,7 +59,7 @@
     <dependency>
       <groupId>io.opencensus</groupId>
       <artifactId>opencensus-impl</artifactId>
-      <version>0.28.3</version>
+      <version>0.31.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
